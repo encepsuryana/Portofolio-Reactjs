@@ -18,11 +18,11 @@ const Intro = () => {
               <div className="i-title-item">Instructor</div>
             </div>
           </div>
-          <div className="i-desc">
+          <p className="i-desc">
             I design and Develop Services for customers all size, specializing
             in creating stylish, modern websites, web services and online
             stores.
-          </div>
+          </p>
         </div>
       </div>
       <div className="i-right">
